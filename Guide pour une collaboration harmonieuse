@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #008000; /* Green */
+            color: #fff; /* White text on green background */
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #990000; /* Darker red */
+            text-align: center;
+        }
+
+        section {
+            background-color: #fff; /* White background */
+            color: #333; /* Dark text on white background */
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            padding: 20px;
+        }
+
+        h2 {
+            color: #990000; /* Darker red for section headings */
+            font-weight: bold;
+        }
+
+        p {
+            line-height: 1.5;
+            font-weight: bold;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+
+        footer {
+            margin-top: 20px;
+            text-align: center;
+        }
+    </style>
+    <title>Guide pour une Collaboration Harmonieuse</title>
+</head>
+<body>
+
+    <h1>Guide pour une Collaboration Harmonieuse dans les Boucles Communautaires</h1>
+
+    <section>
+        <h2>Consensus et Objectif Commun</h2>
+        <p>Recherchons toujours le consensus dans nos décisions, en gardant à l'esprit que notre objectif commun est partagé par tous.</p>
+    </section>
+
+    <section>
+        <h2>Gestion des Désaccords</h2>
+        <p>En cas de désaccord, remettons au centre des discussions notre objectif commun, plutôt que les divergences que nous pouvons avoir. En partant de là, nous pourrons résoudre beaucoup plus facilement les différences de point de vue qu'on pourrait avoir.</p>
+    </section>
+
+    <section>
+        <h2>Remontées et écoutes</h2>
+        <p>Robin (secrétaire général de Picardie Debout) et moi-même nous engageons à toujours prendre en compte vos propositions, contributions, remarques, critiques. En revanche, c'est nous qui restons les décisionnaires sur ce qui est validé et ce qui ne l'est pas.</p>
+    </section>
+
+    <section>
+        <h2>Questions et discussions</h2>
+        <p>Si vous avez des questions ou des remarques sur la ligne politique ou sur la stratégie, n'hésitez pas à m'écrire directement en MP. Si ce dont vous voulez parler concerne les débats d'actualité, il y a une boucle spécifique pour ça afin de ne pas encombrer les fils de discussion.</p>
+    </section>
+
+    <section>
+        <h2>Importance de Chaque Membre</h2>
+        <p>Tout le monde est important : vos contributions sont toujours utiles, et ce n'est pas parce qu'on choisit une contribution plutôt qu'une autre que la vôtre était mauvaise. On ne peut être bons que parce qu'on est tous ensemble.</p>
+    </section>
+
+    <section>
+        <h2>Sanctions pour Comportements Inappropriés</h2>
+        <p>Toute mise en cause personnelle, prise à parti, tout comportement malveillant, injurieux, discriminatoire ou inapproprié entraînera l'exclusion de son/ses auteur(s) des boucles dont ils font partie.</p>
+    </section>
+
+    <footer>
+        <p>Merci de contribuer à une communauté respectueuse et collaborative.</p>
+    </footer>
+
+</body>
+</html>
